@@ -7,7 +7,7 @@ Andrew.Milewski3@gmail.com :: 970-214-0774
 
 ***
 
-# IT Strategist :: Leader :: Solution Architect :: Product Owner#
+# IT Strategist :: Leader :: Solution Architect :: Product Owner #
 
 ## Summary
 
