@@ -7,7 +7,7 @@ Andrew.Milewski3@gmail.com :: 970-214-0774
 
 ***
 
-# IT Strategist :: Leader :: Solution Architect #
+# IT Strategist :: Leader :: Solution Architect :: Product Owner#
 
 ## Summary
 
@@ -32,7 +32,7 @@ ___
 _September 2000 – Present_
 
 
-**Enterprise Solution Architect, HPE Global IT, Cloud and Containers**
+**Enterprise Solution Architect, Product Owner: HPE Global IT, Cloud and Containers**
 
 *November 2016 – Current*
 
@@ -56,7 +56,7 @@ _September 2000 – Present_
     Drive strategy and adoption of Hybrid IT for R&D community targeting DevOps methodologies to enable 
     transformation of applications to modern, micro-services based architectures
 
-    Partnered with Global IT and EG R&amp;D Business Units on strategy, incubation, and governance to 
+    Partnered with Global IT and EG R&D Business Units on strategy, incubation, and governance to 
     accelerate adoption
 
     Lead program to enable Products teams with transformation of Build Pipelines to Continuous Integration 
