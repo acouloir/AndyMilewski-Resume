@@ -32,7 +32,7 @@ ___
 _September 2000 – Present_
 
 
-**Enterprise Solution Architect, Product Owner: HPE Global IT, Cloud and Containers**
+**Senior Engineering Program Manager, Product Owner, Solution Architect: HPE Global IT, Cloud and Containers**
 
 *November 2016 – Current*
 
