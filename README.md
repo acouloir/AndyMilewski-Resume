@@ -6,6 +6,8 @@ This repo respresents my Resume and my work experience.  I have been focused on 
 
 [GitHub Senior Technical Project Manager - How Andy Milewski fulfills requirements](topics/SeniorTechnicalProjectManagerCover.md)
 
+[STPM Cover submitted for open GitHub position](topics/Andrew_J_Milewski_III-STPM-GitHub-Cover.pdf)
+
 #### Older revisions of Resume
 
 [Altnernative format Resume](topics/resumeMarch2018.md)
