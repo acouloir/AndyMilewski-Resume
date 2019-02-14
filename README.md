@@ -7,3 +7,5 @@ This repo respresents my Resume and my work experience.  I have been focused on 
 [Altnernative format v2 Resume](topics/resumeMarch2018v2.md)
 
 [Altnernative format v3 Resume](topics/AndrewJMilewski3.pdf)
+
+[GitHub Senior Technical Project Manager Cover] (topic/SeniorTechnicalProjectManagerCover.md)
