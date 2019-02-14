@@ -13,9 +13,13 @@
 
 - Excellent Planning & Organizing skills: Determines goals and priorities and assesses the actions, time and resources needed to achieve the goals; attention to detail and multi-tasking skills required
 
-  * Recent example is Product Owner and Program Manager for internal Container as a Service for HPE R&D leveraging GitHub Enterprise for all Project Planning, Collaboration, Goals, Priorities and daily standups.  This including deployment of Docker Enterprise on Bare Metal, leveraging automation and Infrastructure as Code and Jenkins for CI/Everything as Code.
+  * Recent example is Product Owner, Program Manager, and Infrastructure Architect for internal Container as a Service for HPE R&D leveraging GitHub Enterprise for all Project Planning, Collaboration, Goals, Priorities and daily standups.  This including deployment of Docker Enterprise on Bare Metal, leveraging automation and Infrastructure as Code and Jenkins for CI/Everything as Code.
 
   * As the Program Manager and Product Owner for our internal deployment of DockerHub I was successful in enabling a team of diverse resources to incubate, deploy and support the operations of the global repository for all Docker images.  Our roadmap included a goal of monthly updates to the capabilities while leveraging our internal GitHub Enterprise as the center of the universe for all documentation, project planning, roadmaps and support
+
+  * As the Program Manager, Product Owner and Infrastructure Architect for our Docker on Synergy IT Innovation initiative we mimiced our efforts around DockerHub and our Container as a Service offering.  This effort helped promote HPE on HPE and we often were called upon to present our experiences to HPE customers either at our Discover Customer Trade show or one on one via interactions with our Salesforce.
+
+  * Collectively the Container as a Service initiative, DockerHub deployment and Operations and Docker on Synergy Programs often pushed the need to multitask and juggle priorities across multiple work-streams, strategic initiatives, goals and outcomes at the same time.
 
 
 - Excellent Communication skills: Actively listens and ensures that written and verbal interactions are accurate, clear, concise and tailored to suit the recipient
