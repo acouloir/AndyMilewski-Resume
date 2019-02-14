@@ -4,7 +4,7 @@
 - 8+ years of relevant engineering or infrastructure experience required, including at least 5 years in a Technical Project Management, Program Management, or other technical/engineering leadership role
 
   * 15+ years of Technical Program/Project Management experience including 3 separate instances of managing and growing teams associated with Enterprise Programs
-    - Incubated and grew Demo and Training Enablement Program and associated Infrastructure team to 13
+    - Incubated and grew Demo and Training Enablement Program and associated Infrastructure team to thirteen
     - Transformed Lab/Datacenter Operations teams associated with two 50,000 square feet R&D facilities from perceived as negative and disruptive to being recognized as partnering and working as an enabler to the businesses supported
     - Incubated and Operationalized R&D Cloud Program used as transformational tool to enable R&D teams to consolidate and optimize infrastructures to reduce lab space consumption
     - Led R&D IT Innovation Program and teams which focused on HPE on HPE; emphasizing how HPE uses its own products and solutions to solve internal IT problems
