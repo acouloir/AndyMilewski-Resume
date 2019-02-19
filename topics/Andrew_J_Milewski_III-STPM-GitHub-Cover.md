@@ -9,7 +9,7 @@
 As an experienced Enterprise Infrastructure focused Project and Program Manager I am
 interested in GitHub’s current opening for [Senior Technical Project Manager](https://boards.greenhouse.io/github/jobs/1555070). I have outlined
 how some of my experience of more than 15 years as a Technical Project and Program
-Manager meets the [qualifications](AndyMilewski-Resume/topics/SeniorTechnicalProjectManagerCover.md) GitHub has outlined as desirable on Github.com for your
+Manager meets the [qualifications](https://github.com/acouloir/AndyMilewski-Resume/blob/master/topics/SeniorTechnicalProjectManagerCover.md) GitHub has outlined as desirable on Github.com for your
 review. In addition to the submitted Resume, I have published a [Repo](https://github.com/acouloir/AndyMilewski-Resume) on Github.com for
 review as well. Lastly some additional details regarding my experiences and skills can be
 found by reviewing my LinkedIn [Profile](https://www.linkedin.com/in/andy-milewski3/).
