@@ -12,7 +12,7 @@ how some of my experience of more than 15 years as a Technical Project and Progr
 Manager meets the [qualifications](topics/SeniorTechnicalProjectManagerCover.md) GitHub has outlined as desirable on Github.com for your
 review. In addition to the submitted Resume, I have published a [Repo](https://github.com/acouloir/AndyMilewski-Resume) on Github.com for
 review as well. Lastly some additional details regarding my experiences and skills can be
-found by reviewing my LinkedIn [Profile](https://www.linkedin.com/pub/andy-milewski3).
+found by reviewing my LinkedIn [Profile](https://www.linkedin.com/in/andy-milewski3/).
 
 Please review my Resume and associated materials provided as consideration for candidacy
 for the position. I look forward to any opportunity to discuss the position and how I feel I might
